@@ -12,6 +12,7 @@ I am a software developer with over 4 years of experience in developing web appl
 
 #### Education
 Bachelor's degree in Computer Science
+
 courses: Machine Learning, AI, Web3 and Metaverse
 
 Thank you for looking at my profile. Please get in touch with me if you're interested in working on a project together or if you have any queries.
