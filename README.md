@@ -44,6 +44,7 @@ I am a software developer with over 4 years of experience in developing web appl
   </p>
 
 </details>
+
 #### Education
 Bachelor's degree in Computer Science
 
