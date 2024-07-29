@@ -1,4 +1,10 @@
+
+
 ### Hi there 👋
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=usmanashrf&style=flat-square" alt="Profile Views">
+</div>
+
 ## I'm Usman Ashraf
 I am a software developer with over 4 years of experience in developing web applications. I am passionate about creating clean and efficient code that delivers a great user experience. I am always looking for new challenges and enjoy working with a team to find innovative solutions to complex problems.
 
@@ -42,6 +48,14 @@ I am a software developer with over 4 years of experience in developing web appl
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
+  
+---
+
+<p>
+  <a href="#"><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-20232a.svg?logo=openai&logoColor=white"></a>
+<a href="#"><img alt="Gemini" src="https://img.shields.io/badge/Gemini-20232a.svg?logo=google&logoColor=white"></a>
+<a href="#"><img alt="LLaMA" src="https://img.shields.io/badge/LLaMA-20232a.svg?logo=meta&logoColor=%2361DAFB"></a>
+</p>
 
 </details>
 
